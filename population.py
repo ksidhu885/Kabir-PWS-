@@ -102,10 +102,10 @@ class Population:
 
     def next_gen(self):
         children = []
-        #clone champion to species
+        
         for s in self.species:
             children.append(s.champion.clone())
-        #fill open slot w children
+        
         children_per_species = math.floor((self.size / len(self.species)) / len(self.species[0].players))
         for s in self.species:
             for i in range(0, children_per_species):
@@ -120,7 +120,6 @@ class Population:
 
 
 
-    #all of em dead
     def extinct(self):
         extinct = True
         for p in self.players:
