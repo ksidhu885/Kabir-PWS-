@@ -1,24 +1,28 @@
 Flappy Bird vs AI
 
-Description:
+#Description:
 A version of the game Flappy Bird with an AI using a neural network and evolution-based training.
 
-Hardware: aDD SPECS 
+#Hardware and Specs
 - Laptop: HP EliteBook 850 G3
 - Operating System: Windows 10 Pro
+- Processor(CPU): Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz-2.50 GHz
+- RAM: 8 GB
+- Graphics(GPU): Intel(R) HD Graphics 520 (128 MB) 
+- Storage: 119 GB SSD SanDisk SD8SN8U-128G-1006
 
-Software:
+#Software:
 - Python 3.11
 - Visual Studio Code(VScode): This is an IDE(Integrated Development Environment) to edit and run the code
 - Powershell (Default Windows Terminal used in VSCode
 - Pygame and other libraries
 
-Python Libraries:
+#Python Libraries:
 - Pygame 
 - pandas
 - matplotlib
 
-Built-in Modules:
+#Built-in Modules:
 - os
 - csv
 - math
