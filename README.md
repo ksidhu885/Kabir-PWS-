@@ -29,8 +29,10 @@ Setup as done on Windows 10 Pro:
 1. Download Python 3.11 [here](https://www.python.org/)
 2. Download Visual Studio code [here](https://code.visualstudio.com/)
 3. Download this repository and put it in Visual Studio Code
-4. Install required libraries using pip install (name of library)
-5. Run code in main.py 
+4. Create a Virtual Environment in the Terminal using: python -m venv .venv
+5. Activate it using: .venv\Scripts\activate
+6. Install required libraries using pip install (name of library)
+7. Run code in main.py 
 
 
 
