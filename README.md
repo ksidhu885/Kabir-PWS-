@@ -6,15 +6,18 @@ A version of the game Flappy Bird with an AI using a neural network and evolutio
 Hardware:
 - Laptop: HP EliteBook 850 G3
 - Operating System: Windows 10 Pro
+
 Software:
 - Python 3.11
 - Visual Studio Code(VScode): This is an IDE(Integrated Development Environment) to edit and run the code
 - Powershell (Default Windows Terminal used in VSCode
 - Pygame and other libraries
+
 Python Libraries:
 - Pygame 
 - pandas
 - matplotlib
+
 Built-in Modules:
 - os
 - csv
@@ -22,7 +25,7 @@ Built-in Modules:
 - random
 - pickle
 
-Setup as done on Windows 10 Pro
+Setup as done on Windows 10 Pro:
 1. Download Python 3.11 [here](https://www.python.org/)
 2. Download Visual Studio code [here](https://code.visualstudio.com/)
 3. Download this repository and put it in Visual Studio Code
