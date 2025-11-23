@@ -3,7 +3,7 @@ Flappy Bird vs AI
 Description:
 A version of the game Flappy Bird with an AI using a neural network and evolution-based training.
 
-Hardware:
+Hardware: aDD SPECS 
 - Laptop: HP EliteBook 850 G3
 - Operating System: Windows 10 Pro
 
